@@ -1,0 +1,29 @@
+@import url(bootstrap.min.css);
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+html,
+body {
+  margin: 0;
+}
+
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+/*# sourceMappingURL=style.css.map */
