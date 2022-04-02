@@ -1,6 +1,6 @@
 # [Become a Dev](https://ygorperez.github.io/become-a-dev/) <img src="https://user-images.githubusercontent.com/54226652/161377391-02e08f86-5461-4611-a70b-a7a62a16e5f1.png" height="45px"> 
 
-Simple bootstrap static html app, using some apis to make for a better experience 
+Simple responsive bootstrap app, using some apis to make for a better experience 
 
 ## _Technologies_ <img src="https://cdn-icons-png.flaticon.com/512/1087/1087840.png"  width="25px" alt="">
 
